@@ -1,0 +1,8 @@
+{
+  "categorias": [
+    {"id": "cultura", "nombre": "Cultura", "icono": "museum", "descripcion": "Zonas arqueológicas, museos y tradiciones vivas."},
+    {"id": "naturaleza", "nombre": "Naturaleza", "icono": "park", "descripcion": "Bosques, cascadas y paisajes únicos."},
+    {"id": "playa", "nombre": "Playa", "icono": "beach", "descripcion": "Costa del Pacífico oaxaqueño."},
+    {"id": "gastronomia", "nombre": "Gastronomía", "icono": "food", "descripcion": "Mercados, mezcal y cocina tradicional."}
+  ]
+}
