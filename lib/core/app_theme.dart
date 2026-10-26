@@ -33,9 +33,13 @@ class AppTheme {
         ),
         textTheme: const TextTheme(
           headlineSmall: TextStyle(
-              fontSize: 22, fontWeight: FontWeight.w700, color: AppColors.textDark),
+              fontSize: 22,
+              fontWeight: FontWeight.w700,
+              color: AppColors.textDark),
           titleMedium: TextStyle(
-              fontSize: 16, fontWeight: FontWeight.w600, color: AppColors.textDark),
+              fontSize: 16,
+              fontWeight: FontWeight.w600,
+              color: AppColors.textDark),
           bodyMedium:
               TextStyle(fontSize: 14, height: 1.5, color: AppColors.textDark),
           bodySmall: TextStyle(fontSize: 12, color: AppColors.textMuted),
